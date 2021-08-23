@@ -1,7 +1,9 @@
 # JPA_study
 
 자바 ORM 표준 JPA 프로그래밍
+
 저자 김영한
+
 [참고 서적](https://book.naver.com/bookdb/book_detail.nhn?bid=9252528)
 
 
